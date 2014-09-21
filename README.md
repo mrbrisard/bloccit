@@ -2,6 +2,10 @@
 
 Made with my mentor at [Bloc](http://bloc.io).
 
+## Here is a lnk to my Heroku app
+
+Also created with the help of my mentor [MrBrisard-Bloccit](http://mrbrisard-bloccit.herokuapp.com/)
+
 
 == README
 
