@@ -13,4 +13,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+// Twitter Bootstrap added Sep 21 as part of Checkpoint 302
+//= require bootstrap
 //= require_tree .

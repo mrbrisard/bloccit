@@ -21,6 +21,9 @@ gem 'rails', '4.0.8'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
 
+# Use Twitter Boostrap - Checkpoint 302
+gem 'bootstrap-sass', '~> 3.1.1'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 
