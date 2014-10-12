@@ -39,6 +39,9 @@ gem 'jquery-rails'
 #Adding Faker as per Seed Data lesson
 gem 'faker'
 
+#Adding devise as per User Authentication lesson  
+gem 'devise'
+
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
 
