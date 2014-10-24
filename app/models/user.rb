@@ -6,12 +6,13 @@ class User < ActiveRecord::Base
 
   has_many :posts
   
-end
-
-def admin?
+  def admin?
    role == 'admin'
  end
  
  def moderator?
    role == 'moderator'
  end
+ 
+end
+
