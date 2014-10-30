@@ -7,12 +7,12 @@ class User < ActiveRecord::Base
   has_many :posts
   
   def admin?
-   role == 'admin'
- end
+    role == 'admin'
+  end
  
- def moderator?
-   role == 'moderator'
- end
+  def moderator?
+    role == 'moderator'
+  end
  
 end
 
