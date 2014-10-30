@@ -54,6 +54,9 @@ gem 'jbuilder', '~> 1.2'
 #Adding Pundit as part of Authorization checkpoint
 gem 'pundit'
 
+#Adding redcarpet as part of Post Markdown checkpoint
+gem 'redcarpet'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
