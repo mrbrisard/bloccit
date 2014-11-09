@@ -47,8 +47,6 @@ gem 'carrierwave'
 gem 'mini_magick'
 gem 'fog'
 
-
-
 #Adding devise as per User Authentication lesson  
 gem 'devise'
 
