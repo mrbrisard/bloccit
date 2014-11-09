@@ -39,8 +39,15 @@ gem 'coffee-rails', '~> 4.0.0'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 
-#Adding Faker as per Seed Data lesson
+# Adding Faker as per Seed Data lesson
 gem 'faker'
+
+# Adding Faker as per Uploading Images lesson
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
+
+
 
 #Adding devise as per User Authentication lesson  
 gem 'devise'
