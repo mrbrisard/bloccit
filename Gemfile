@@ -62,6 +62,9 @@ gem 'pundit'
 #Adding redcarpet as part of Post Markdown checkpoint
 gem 'redcarpet'
 
+#Adding will_paginate as part of Pagination checkpoint
+gem 'will_paginate', '~> 3.0.5'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
