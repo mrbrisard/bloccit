@@ -14,9 +14,15 @@ gem 'rails', '4.0.8'
  
  # Checkpoint 299 - Sept 20
  group :development do
-   gem 'sqlite3'
+    gem 'sqlite3'
+   # Checkpoint Intro to RSpec - Nov 16
+    gem 'better_errors'
+    gem 'binding_of_caller'
  end
 
+group :test do
+  gem 'rspec-rails', '~> 3.1.0'
+end 
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.2'
